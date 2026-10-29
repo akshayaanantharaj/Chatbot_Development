@@ -1,0 +1,72 @@
+
+Timestamp: 2026-10-29T08:27:07+05:30
+User: What is artificial intelligence?
+EduBot: Artificial intelligence (AI) is a type of technology that helps computers think and learn like humans. It's like a super-smart computer that can do things on its own, without being told exactly what to do.
+
+Imagine you have a robot that can play chess, recognize pictures, or even help you with your homework. That's basically what artificial intelligence does!
+
+There are many types of AI, but some common ones include:
+
+1. Machine learning: This type of AI helps computers learn from data and get better at doing tasks on their own.
+2. Natural language processing: This type of AI helps computers understand and work with human language, like chatting with you!
+3. Computer vision: This type of AI helps computers see and understand images and videos.
+
+The idea behind AI is to create machines that can think, learn, and problem-solve like humans, making our lives easier and more efficient.
+
+Does that make sense?
+--------------------------------------------------
+
+Timestamp: 2026-10-29T08:27:17+05:30
+User: What subject am I asking about?
+EduBot: You're asking about the subject of Computer Science, specifically about Artificial Intelligence (AI).
+--------------------------------------------------
+
+Timestamp: 2026-10-29T08:43:37+05:30
+User: My name is Akshaya.
+EduBot: Hi Akshaya! It's nice to meet you. What subject or topic would you like to learn about or ask a question about? I'm here to help you with your studies or answer any questions you have.
+--------------------------------------------------
+
+Timestamp: 2026-10-29T08:44:29+05:30
+User: What is my name?
+EduBot: Your name is Akshaya! You told me that at the beginning. Would you like to know something about the meaning of your name or something else?
+--------------------------------------------------
+
+Timestamp: 2026-10-29T08:51:39+05:30
+User: Explain artificial intelligence.
+EduBot: Artificial Intelligence (AI) is a type of computer science that makes machines and computers think and act like humans.
+
+Imagine you're talking to a robot, and it's trying to understand what you want it to do. That's basically what AI is. It's a way to create computers that can:
+
+1. Learn from data (like pictures or words)
+2. Make decisions on their own
+3. Understand and respond to questions or commands
+
+There are many types of AI, like:
+
+* Machine Learning (helps computers learn from data)
+* Natural Language Processing (allows computers to understand human language)
+* Computer Vision (helps computers see and understand images)
+
+AI is used in many cool ways, like:
+
+* Virtual assistants (like Siri or Alexa)
+* Self-driving cars
+* Chatbots (like me!)
+* Image recognition apps
+
+But remember, AI is still a developing field, and it's not as smart as humans yet. It's like a very smart robot that's getting better and better with time!
+--------------------------------------------------
+
+Timestamp: 2026-10-29T08:54:28+05:30
+User: Give me one example of it.
+EduBot: One example of Artificial Intelligence is Siri, a virtual assistant developed by Apple.
+
+When you ask Siri a question, like "What's the weather like today?", Siri:
+
+1. Listens to your voice
+2. Understands what you're saying (thanks to Natural Language Processing)
+3. Looks up the answer in a database of information
+4. Gives you an answer, like "It's sunny today!"
+
+Siri is like a computer that can think and respond like a person, which is what AI is all about!
+--------------------------------------------------
